@@ -1,0 +1,2 @@
+This is my test text file.
+How does the system notice that there is new data.
